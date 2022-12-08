@@ -119,13 +119,14 @@ body {
 .profile-section > p {
   font-size: 14px;
   margin: 3px;
-  line-height: 22px;
+  line-height: 14px;
   letter-spacing: 1px!important;
-  margin-bottom: 14px;
+  margin-bottom: 10px;
 }
 
 .profile-title {
   margin-top: 40px!important;
+  margin-bottom: 20px!important;
   font-weight: bold;
 }
 
